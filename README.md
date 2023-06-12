@@ -1,6 +1,6 @@
 ## How to install
 
-Download vscode & intall it.
+Download vscode & install it.
 Install following extensions:
 * C/C++ 
 * CMake
